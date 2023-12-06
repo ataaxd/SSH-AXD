@@ -1,7 +1,7 @@
 #!/bin/bash
 #====================================================
-#	SCRIPT: SSHPLUS MANAGER CREATE USER ACCOUNT
-#	TRANSLATED BY:	JENBHIE
+#	SCRIPT: AXD CREATE USER ACCOUNT
+#	AUTHOR BY:	ATAAXD
 #====================================================
 IP=$(cat /etc/IP)
 cor1='\033[41;1;37m'
