@@ -30,8 +30,8 @@
 * It may also work on some versions of Debian Server x86_64
 
 ## Installation
-
-```apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/ataaxd/SSH-AXD/main/Plus; chmod 777 Plus; ./Plus```
-
+```
+apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/ataaxd/SSH-AXD/main/Plus; chmod 777 Plus; ./Plus
+```
 
 **generate the SSH key, Click Y**
